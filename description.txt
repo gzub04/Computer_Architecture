@@ -1,1 +1,0 @@
-All tests are stored in "tests" folder. There are folders containing a single "input.bin" file that you should put in the same folder as main.c, turtles.asm and makefile. In "empty" folder there is a test for an empty bin file. "wrong_x" tests what happens if "set position" command is out of bounds for x and "wrong_y" tests when y is out of bounds.
